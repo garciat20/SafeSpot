@@ -74,7 +74,9 @@ Find a spot nearby to calm down
 * Didn't make wireframe sorry
 
 ## DEMO
-<a href="https://jmp.sh/s/zVmOxG4WpyOl9cOW4pO3"><p style="margin-bottom: 0 !important;">ezgif.com-video-to-gif-converter - View Image</p><img style="max-width:400px;" src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194933f720f2be2c32e5544b35fc323763f4a778fbc2ee8de6d1f48ff3bc4b2d2cc9e3b948c10bacda0a46174d12beca67b22c9067d658f62a27d2c325725f916e731"></a>
+<a href="https://jmp.sh/s/zVmOxG4WpyOl9cOW4pO3"><img style="max-width:400px;" src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194933f720f2be2c32e5544b35fc323763f4a778fbc2ee8de6d1f48ff3bc4b2d2cc9e3b948c10bacda0a46174d12beca67b22c9067d658f62a27d2c325725f916e731"></a>
+
+https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194933f720f2be2c32e5544b35fc323763f4a778fbc2ee8de6d1f48ff3bc4b2d2cc9e3b948c10bacda0a46174d12beca67b22c9067d658f62a27d2c325725f916e731
 
 ### [BONUS] Digital Wireframes & Mockups
 
