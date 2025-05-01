@@ -74,12 +74,8 @@ Find a spot nearby to calm down
 * Didn't make wireframe sorry
 
 ## DEMO
-<img style="max-width:400px;" src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194933f720f2be2c32e5544b35fc323763f4a778fbc2ee8de6d1f48ff3bc4b2d2cc9e3b948c10bacda0a46174d12beca67b22c9067d658f62a27d2c325725f916e731">
 
-[https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194933f720f2be2c32e5544b35fc323763f4a778fbc2ee8de6d1f48ff3bc4b2d2cc9e3b948c10bacda0a46174d12beca67b22c9067d658f62a27d2c325725f916e731]
-
-### [BONUS] Digital Wireframes & Mockups
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/dalQiqDK1MICy8bAnqPp" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Schema 
 
