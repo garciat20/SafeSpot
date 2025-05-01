@@ -33,11 +33,11 @@ Find a spot nearby to calm down
 **Required Must-have Stories**
 
 * View Map
-    - [x] view map
+    - [x] view map on startup with user location
 * ViewRelaxingSpots
-    - [ ] open app and see recommended spots to go to
+    - [x] open app and see recommended spots to go to on map
 * Get directions to relaxing spot
-    - [ ] able to get directions to place you want to go to
+    - [x] able to get directions to place you want to go to (by linking apple maps to app)
 
 **Optional Nice-to-have Stories**
 
